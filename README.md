@@ -1,5 +1,6 @@
-### Hi there ✨ Coders ✨
+# Hi there ✨ Coders ✨
 💬 If you have any questions ask me on my LinkedIn!
+
 📫 You can also drop some questions on my Site: mathiasvanlangendonck.com
 <!--
 **MathiasvlThomasMore/MathiasvlThomasMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
