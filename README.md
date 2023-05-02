@@ -3,7 +3,7 @@
 
 📫 You can also drop some questions on my site.
 
-⚡I've built my own website with css/html: mathiasvanlangendonck.com
+⚡I build my own websites!
 <!--
 **MathiasvlThomasMore/MathiasvlThomasMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
